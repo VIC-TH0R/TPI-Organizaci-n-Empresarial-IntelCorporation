@@ -13,6 +13,12 @@
 ## 📝 Descripción General del Sistema
 El proyecto contempla el modelado, gestión y control del sistema de información encargado de la recepción, almacenamiento y reabastecimiento de materias primas críticas (obleas de silicio y reactivos químicos) para la fabricación de microprocesadores en Intel Corp.
 
+
+---
+## 🎯 Historias de Usuario (Jira)
+1. **Ingreso por RFID:** Como Operador de Depósito, quiero escanear el tag RFID al ingresar materias primas para actualizar el stock físico en tiempo real.
+2. **Alerta Crítica Automatizada:** Como Analista de Compras, quiero recibir una notificación automática en menos de 1,5 segundos cuando el stock caiga por debajo del umbral mínimo para emitir la Orden de Compra.
+3. **Liberación a Producción:** Como Gerente de Producción, quiero consultar la disponibilidad de stock verificado para autorizar el montaje en la línea de fabricación.
 ---
 
 ## 🤖 Declaración sobre el uso de Inteligencia Artificial
