@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="UvCNGS1hcxou7VGHsbqz">
-    <mxGraphModel dx="2141" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2126" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,7 +160,7 @@
         <mxCell id="rwBDwxlJexYo3H4UTgU6-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="8. Despacho y Envío de Silicio / Químicos" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="rwBDwxlJexYo3H4UTgU6-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="9. Procesamiento y Generación de OC" vertex="1">
+        <mxCell id="rwBDwxlJexYo3H4UTgU6-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="7. Procesamiento y Generación de OC" vertex="1">
           <mxGeometry height="60" width="120" x="820" y="440" as="geometry" />
         </mxCell>
         <mxCell id="rwBDwxlJexYo3H4UTgU6-61" edge="1" parent="1" source="rwBDwxlJexYo3H4UTgU6-60" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#000000;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
@@ -192,6 +192,13 @@
         </mxCell>
         <mxCell id="rwBDwxlJexYo3H4UTgU6-66" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;" value="Entrega Física de Materia Prima" vertex="1">
           <mxGeometry height="40" width="140" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zdSvf9yEb18rcyy4_VeO-1" edge="1" parent="1" source="rwBDwxlJexYo3H4UTgU6-46" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=#000000;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points" />
+            <mxPoint x="440" y="344.5" as="sourcePoint" />
+            <mxPoint x="250" y="344.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
