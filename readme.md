@@ -18,6 +18,6 @@ El proyecto contempla el modelado, gestión y control del sistema de informació
 ## 🤖 Declaración sobre el uso de Inteligencia Artificial
 En cumplimiento con los lineamientos académicos de la cátedra, se declara el uso asistido de herramientas de Inteligencia Artificial Generativa (LLMs) durante el desarrollo del proyecto:
 
-* **Herramientas utilizadas:** NotebookLM.
+* **Herramienta utilizada:** NotebookLM.
 * **Fines de uso:** Estructuración de historias de usuario bajo el formato estándar. Revisión sintáctica de la documentación técnica.
-* **Supervisión y Control Humano:** Todo el material generado por la IA fue auditado, validado y adaptado críticamente por el alumno para garantizar su alineación con los apuntes teóricos de la materia y el caso de negocio de Intel.
+* **Supervisión y Control Humano:** Todo el material generado por la IA fue auditado, validado y adaptado críticamente para garantizar su alineación con los apuntes teóricos de la materia y el caso de negocio de Intel.
